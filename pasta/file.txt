@@ -2,5 +2,6 @@ HI - master
 2414-1537 outro b3
 alter b4
 
-
+alterado no b3
 no vim2
+nova linha no b3
