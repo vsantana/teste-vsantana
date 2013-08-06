@@ -1,1 +1,2 @@
-Primeira linha do readme.
+==Arquivo de Readme==
+Testando git gui.
